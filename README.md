@@ -3,6 +3,8 @@
 This project is an interactive Stock Trend Prediction application built using Streamlit for the frontend, LSTM (Long Short-Term Memory) Neural Networks using TensorFlow/Keras for time-series modeling, and pandas/matplotlib/NumPy for data processing and visualization.
 The app allows users to input a stock ticker (e.g., AAPL, TSLA) and predict the future stock prices based on historical data (2010–2024).
 ![image alt](https://github.com/Manacydev/Stock-Trend-Prediction/blob/5a62fec6d36c9b25885f2e71a43e7708df03a770/image%201.png)
+![image alt](https://github.com/Manacydev/Stock-Trend-Prediction/blob/96722f51c86a8fc8ef433ee15fbd38be4426107d/image%202.png)
+
 # Technologies Used
 Python (Core language),
 Streamlit (Web Application Framework),
